@@ -208,11 +208,7 @@ jQuery(function ($) {
 		return false;
 	});
 
-	// Buy Now Btn
-	$('body').append("<a href='https://themeforest.net/checkout/from_item/27772407?license=regular&support=bundle_6month&_ga=2.216602262.1657781501.1653794352-1356931366.1645330919' target='_blank' class='buy-now-btn'><img src='assets/img/envato.png' alt='envato'/>Buy Now</a>");
 
-	// Switch Btn
-	$('body').append("<div class='switch-box'><label id='switch' class='switch'><input type='checkbox' onchange='toggleTheme()' id='slider'><span class='slider round'></span></label></div>");
 
 }(jQuery));
 
